@@ -1,4 +1,4 @@
-# UNP-Project_BI-with-Power-BI_Supply-Chain
+UNP_PROJECT_BI_WITH_POWER_BI_Supply_Chain
 
 Completed this project as part of my Learning with United Network of Professionals (UNP).Key highlights:
 
